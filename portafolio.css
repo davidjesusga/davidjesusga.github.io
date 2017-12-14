@@ -4,17 +4,68 @@
 	width: 300px;
 	height: 300px;
 }
+
 .col-md-4
 {
+		float: center;
+	text-align: center;
 	margin-top: 25px;
 }
+
 .imgcolumna
 {
 	float: center;
 	text-align: center;
 }
+
 .social
 {
 	float: right;
 	margin-top: 8px;
+}
+
+#about
+{
+	height: 300px;
+	width: 100%;
+	font-color: white;
+	background-color: #1a1a1a;
+}
+
+#jumbotron1
+{
+	padding-top:30px;
+	padding-bottom:30px;
+	margin-bottom:30px;
+	color:inherit;
+	background-color: #1a1a1a;
+}
+
+.container1 h1
+{
+	color: white;
+	text-align: center;
+}
+
+.container1 p
+{
+	color: white;
+	text-align: center;
+	padding-left: 25%;
+	padding-right: 25%;
+	vertical-align: middle;
+	padding-bottom: 60px;
+}
+
+.container2
+{
+	padding-top: 60px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.row 
+{
+    margin-right: 0px;
+    margin-left: 0px;
 }
