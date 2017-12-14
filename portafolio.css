@@ -1,0 +1,20 @@
+.imagen1
+{
+		float: right;
+	width: 300px;
+	height: 300px;
+}
+.col-md-4
+{
+	margin-top: 25px;
+}
+.imgcolumna
+{
+	float: center;
+	text-align: center;
+}
+.social
+{
+	float: right;
+	margin-top: 8px;
+}
