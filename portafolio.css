@@ -43,7 +43,37 @@
 
 #jumbotron2
 {
+	padding-top:30px;
 	padding-bottom:30px;
+	margin-bottom:30px;
+}
+#jumbotron3
+{
+	padding-top:30px;
+	padding-bottom:30px;
+	margin-bottom:30px;
+}
+
+#jumbotron4
+{
+	margin-top: 150px;
+	padding-top:30px;
+	padding-bottom:30px;
+	color:inherit;
+	background-color: #1a1a1a;
+}
+
+.Skills
+{
+	margin-bottom: 120px;
+}
+
+.copy
+{
+	text-align: right;
+	vertical-align: bottom;
+	color: white;
+	margin-bottom: -25px;
 }
 
 .container1 h1
@@ -67,6 +97,7 @@
 	padding-left: 10%;
 	padding-right: 10%;
 	vertical-align: middle;
+	padding-bottom: 15px;
 }
 
 .container3
