@@ -41,6 +41,11 @@
 	background-color: #1a1a1a;
 }
 
+#jumbotron2
+{
+	padding-bottom:30px;
+}
+
 .container1 h1
 {
 	color: white;
@@ -57,6 +62,19 @@
 	padding-bottom: 60px;
 }
 
+.container4
+{
+	padding-left: 10%;
+	padding-right: 10%;
+	vertical-align: middle;
+}
+
+.container3
+{
+	text-align: center;
+	vertical-align: middle;
+}
+
 .container2
 {
 	padding-top: 60px;
@@ -64,8 +82,32 @@
 	vertical-align: middle;
 }
 
+
 .row 
 {
     margin-right: 0px;
     margin-left: 0px;
+}
+
+.workExperience
+{
+	text-align: center;
+	float: center;
+	color: white;
+}
+
+.workExperience *
+{
+	text-align: center;
+	float: center;
+	color: white;
+}
+.workExperience p
+{
+	margin-left: 25px;
+}
+.workExperience h3
+{
+	background-color: #cccccc;
+	padding: 5px 10px;
 }
